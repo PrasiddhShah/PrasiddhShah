@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prasiddh
 
-### A seasoned Java developer
+### A seasoned Python developer
 
 <p align="left"> <a href="https://twitter.com/PrasiddhShah" target="blank"><img src="https://img.shields.io/twitter/follow/PrasiddhShah?logo=twitter&style=for-the-badge" alt="PrasiddhShah" /></a> </p>
 
