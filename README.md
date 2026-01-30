@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **prasiddhshah.18@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1RVrlH5BGv-DlZWTwfc7ulCG5UiYTRMpj/view?usp=sharing](https://drive.google.com/file/d/1RVrlH5BGv-DlZWTwfc7ulCG5UiYTRMpj/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
